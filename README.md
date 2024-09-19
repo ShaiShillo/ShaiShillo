@@ -1,11 +1,14 @@
 <div align="center">
+
+### Hello,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> <br>
+I'm Shai Shillo, a dedicated computer science graduate based in Holon, Israel.
   
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=ShaiShillo&icon=0&color=0)](https://visitcount.itsvg.in)<br>
- 🔭 I’m currently working on: A smart parking system using machine learning (PyTorch, OpenCV) and microservices to improve urban mobility, as well as other full-stack development projects.<br>
- 🤝 I’m looking to collaborate on: Full-stack web development projects using the MERN stack and scalable microservices.<br>
- 🧠 I’m currently learning: Advanced cloud-native technologies, Kubernetes for microservices orchestration, and MongoDB aggregation.<br>
- 💬 Ask me about: Software engineering, full-stack development, and implementing machine learning solutions in production environments.<br>
- ⚡ Fun fact: Light attracts bugs
+ 🔭 I’m currently working on: A smart parking system using machine learning (PyTorch, OpenCV) and microservices to improve urban mobility, as well as other full-stack development projects.<br><br>
+ 🤝 I’m looking to collaborate on: Full-stack web development projects using the MERN stack and scalable microservices.<br><br>
+ 🧠 I’m currently learning: Advanced cloud-native technologies, Kubernetes for microservices orchestration, and MongoDB aggregation.<br><br>
+ 💬 Ask me about: Software engineering, full-stack development, and implementing machine learning solutions in production environments.<br><br>
+ ⚡ Fun fact: English OR Spanish ?
 
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShaiShillo) 
@@ -23,7 +26,7 @@
 | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) |  | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |  | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) |
 |  | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) |  | 
 
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height="255" alt="Waving Hand"/>
 
 
 
@@ -40,3 +43,4 @@
 | --- | --- |
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShaiShillo&theme=nightowl&hide_border=false) | ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=ShaiShillo&limit=5&theme=nightowl&combine_all_yearly_contributions=true) |
 </div>
+
