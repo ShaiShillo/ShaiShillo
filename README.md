@@ -19,6 +19,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21207136) 
 
 # 💻 Tech Stack:
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white"></td>
@@ -62,7 +63,7 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></td>
+    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></td><td></td>
     <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io&badgeColor=010101"></td>
     <td><img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white"></td>
@@ -91,12 +92,11 @@
     <td><img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue"></td>
     <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"></td>
   </tr>
-
+</table>
     
   
   
-</tr>
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
 
 | GitHub Stats | |
 | --- | --- |
