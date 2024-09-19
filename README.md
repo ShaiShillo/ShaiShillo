@@ -2,14 +2,14 @@
 
 ### Hello,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F7F7F7&multiline=true&width=460&height=80&lines=I'm+Shai+Shillo%2C;+a+dedicated+computer+science+graduate+based+in+Holon%2C+Israel.;based+in+Holon%2C+Israel.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=22&duration=2000&color=F7F7F7&center=true&multiline=true&width=870&height=100&lines=I'm+Shai+Shillo%2C;+a+dedicated+computer+science+graduate;based+in+Holon%2C+Israel.)](https://git.io/typing-svg)
 
-# 💫 About Me: [![](https://visitcount.itsvg.in/api?id=ShaiShillo&icon=0&color=0)](https://visitcount.itsvg.in)<br>
- 🔭 I’m currently working on: A smart parking system using machine learning (PyTorch, OpenCV) and microservices to improve urban mobility, as well as other full-stack development projects.<br><br>
- 🤝 I’m looking to collaborate on: Full-stack web development projects using the MERN stack and scalable microservices.<br><br>
- 🧠 I’m currently learning: Advanced cloud-native technologies, Kubernetes for microservices orchestration, and MongoDB aggregation.<br><br>
- 💬 Ask me about: Software engineering, full-stack development, and implementing machine learning solutions in production environments.<br><br>
- ⚡ Fun fact: English OR Spanish ?
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Man Detective" width="50" height="50" /> About Me: [![](https://visitcount.itsvg.in/api?id=ShaiShillo&icon=0&color=0)](https://visitcount.itsvg.in)<br>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> I’m currently working on: A smart parking system using machine learning (PyTorch, OpenCV) and microservices to improve urban mobility, as well as other full-stack development projects.<br><br>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> I’m looking to collaborate on: Full-stack web development projects using the MERN stack and scalable microservices.<br><br>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> I’m currently learning: Advanced cloud-native technologies, Kubernetes for microservices orchestration, and MongoDB aggregation.<br><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Closed Mailbox with Raised Flag" width="25" height="25" /> Ask me about: Software engineering, full-stack development, and implementing machine learning solutions in production environments.<br><br>
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Fun fact: English OR Spanish ?
 
 ## 🌐 Socials: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShaiShillo) 
