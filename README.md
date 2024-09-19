@@ -63,7 +63,8 @@
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></td><td></td>
+    <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></td>
+   <td>  <div align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Crossed-Out%20Eyes.png" alt="Face with Crossed-Out Eyes" width="25" height="25" />   </div></td>
     <td><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/socket.io-black?style=flat&logo=socket.io&badgeColor=010101"></td>
     <td><img src="https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white"></td>
