@@ -26,14 +26,14 @@ I'm Shai Shillo, a dedicated computer science graduate based in Holon, Israel.
 | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) |  | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) |  | ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) |
 |  | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |  | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) |  | 
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height="255" alt="Waving Hand"/>
 
 
 
 
-| GitHub Stats | Top Languages |
+
+| GitHub Stats | |
 | --- | --- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaiShillo&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaiShillo&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaiShillo&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) | ![ ]<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height="255" alt="Waving Hand"/> |
 
 
 
