@@ -1,8 +1,9 @@
 <div align="center">
 
 ### Hello,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> <br>
-I'm Shai Shillo, a dedicated computer science graduate based in Holon, Israel.
-  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=F7F7F7&multiline=true&width=460&height=80&lines=I'm+Shai+Shillo%2C;+a+dedicated+computer+science+graduate+based+in+Holon%2C+Israel.;based+in+Holon%2C+Israel.)](https://git.io/typing-svg)
+
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=ShaiShillo&icon=0&color=0)](https://visitcount.itsvg.in)<br>
  🔭 I’m currently working on: A smart parking system using machine learning (PyTorch, OpenCV) and microservices to improve urban mobility, as well as other full-stack development projects.<br><br>
  🤝 I’m looking to collaborate on: Full-stack web development projects using the MERN stack and scalable microservices.<br><br>
