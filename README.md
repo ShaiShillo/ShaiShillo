@@ -1,19 +1,26 @@
 <div align="center">
 
-### Hello, <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand" width="40" height="40" />
+<h1>Hi, I'm Shai Shillo <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="" width="34" height="34" /></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=C792EA&center=true&vCenter=true&multiline=true&width=870&height=100&lines=I'm+Shai+Shillo+%E2%80%94+Backend-oriented+Full-Stack+Engineer;Event-driven+cloud+systems+%C2%B7+AI+agents+in+production)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=620&height=40&lines=Backend-oriented+Full-Stack+Engineer;Event-driven+systems+%C2%B7+Kafka+%C2%B7+GCP+%C2%B7+AWS;Bringing+AI+agents+into+production;MCP+%C2%B7+LangGraph+%C2%B7+RAG&color=FFFFFF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&center=true&vCenter=true&width=620&height=40&lines=Backend-oriented+Full-Stack+Engineer;Event-driven+systems+%C2%B7+Kafka+%C2%B7+GCP+%C2%B7+AWS;Bringing+AI+agents+into+production;MCP+%C2%B7+LangGraph+%C2%B7+RAG&color=24292F" alt="Backend-oriented Full-Stack Engineer · Event-driven systems · AI agents in production" />
+  </picture>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shai-shillo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=githubpages&logoColor=white)](https://shaishillo.github.io/landing-page/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ShaiShillo@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Shai-Shillo)
-
-![Profile views](https://komarev.com/ghpvc/?username=ShaiShillo&color=c792ea&style=flat-square&label=Profile+views)
+<p>
+  <a href="https://linkedin.com/in/shai-shillo"><img src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://shaishillo.github.io/landing-page/"><img src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" /></a>
+  <a href="mailto:ShaiShillo@gmail.com"><img src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://huggingface.co/Shai-Shillo"><img src="https://img.shields.io/badge/Hugging%20Face-21262D?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
+</p>
 
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Detective" width="36" height="36" /> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" width="320" />
 
 Full-stack (backend-oriented) software engineer building **distributed, event-driven cloud systems** — Kafka, REST APIs, Docker, GCP, AWS. I own services end-to-end, from design to production observability, integrate complex third-party systems, and bring **AI agents into production**.
 
@@ -97,15 +104,21 @@ Full-stack (backend-oriented) software engineer building **distributed, event-dr
 
 ## 📊 GitHub Stats
 
+<!-- Cards are generated daily by .github/workflows/profile-cards.yml and follow the viewer's light/dark theme. -->
 <div align="center">
 
-<!-- Cards are generated daily by .github/workflows/profile-cards.yml and stored in this repo, so they never depend on a rate-limited public API. -->
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaiShillo/ShaiShillo/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/ShaiShillo/ShaiShillo/main/profile-summary-card-output/github/0-profile-details.svg" alt="Contributions in the last year" width="100%" />
+</picture>
 
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaiShillo&theme=github-dark-blue&hide_border=true" alt="GitHub streak" width="48%" />
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel desk" width="48%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaiShillo/ShaiShillo/main/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/ShaiShillo/ShaiShillo/main/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShaiShillo/ShaiShillo/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/ShaiShillo/ShaiShillo/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Top languages by commit" width="49%" />
+</picture>
 
 </div>
