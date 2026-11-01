@@ -16,11 +16,11 @@
   <a href="https://huggingface.co/Shai-Shillo"><img src="https://img.shields.io/badge/Hugging%20Face-21262D?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" width="460" />
+
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Detective.png" alt="Detective" width="36" height="36" /> About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="" width="320" />
 
 Full-stack (backend-oriented) software engineer building **distributed, event-driven cloud systems** — Kafka, REST APIs, Docker, GCP, AWS. I own services end-to-end, from design to production observability, integrate complex third-party systems, and bring **AI agents into production**.
 
